@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**siddhant-bayas/siddhant-bayas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>hi, im siddhant 👋</h1>
 
-Here are some ideas to get you started:
+<p>
+  student • builder • engineer
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## about me
+
+i build things, break them, then make them work again.
+
+interested in systems programming, backend engineering, and making software fast.
+
+## contact
+
+<p align="left">
+  <a href="mailto:siddhantbayas5@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+
+  <a href="https://instagram.com/bayassiddhant" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+
+  <a href="https://linkedin.com/in/bayassiddhant" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+</p>
