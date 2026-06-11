@@ -5,7 +5,6 @@
   student • builder • engineer
 </p>
 
-[![Siddhant profile views](https://u8views.com/api/v1/github/profiles/204122405/views/day-week-month-total-count.svg)](https://u8views.com/github/siddhant-bayas)
 
 ## about me
 
